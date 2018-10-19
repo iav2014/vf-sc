@@ -1,6 +1,9 @@
 **vf solution contingent**
 Design Choices
- Contingency solution for vodafone. This code consists of an http server and 
+
+ Contingency solution for vodafone. 
+ 
+ This code consists of an http server and 
  https nodejs called cluster app.js and an invoking and speaking program called 
  caller.js, which makes the call and times the response times.
  The purpose of this code is to provide a cache for the service 
